@@ -1,8 +1,8 @@
 
-public class Teacher extends Person{
-	
+public class Teacher extends Person {
+
 	String StudentClass;
-	
+
 	public Teacher(String name, String itClass) {
 		super(name, itClass);
 		// TODO Auto-generated constructor stub
@@ -13,14 +13,4 @@ public class Teacher extends Person{
 		// TODO Auto-generated constructor stub
 	}
 
-	
-	
-
-
-
-
-
-
-	
-	
 }
